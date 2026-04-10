@@ -896,3 +896,14 @@ Users must not knowingly alter the Quranic content in any way that misrepresents
 This dataset is provided “as is”, without warranty of any kind, and the publisher shall not be liable for any claim, damage, or loss arising from its use.
 
 
+# 21. Contact Information
+
+For inquiries, feedback, corrections, or collaboration regarding this dataset, please contact the publisher:
+
+- Project / Publisher: Altara Innovation Group  
+- Email: info@altara.id (please include "Mushaf Database" in the subject line)  
+- Website: https://altara.id and https://mushafdatabase.com/  
+
+Entities interested in converting their Mushaf into a structured SVG database are encouraged to contact us. The publisher has the experience, technical expertise, and operational capacity to undertake projects of this magnitude.
+
+Users are encouraged to report any issues related to data accuracy, structural consistency, or usage.
