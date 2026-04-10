@@ -1,7 +1,5 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="mushafdatabase-logo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="mushafdatabase-logo-black.png">
     <img src="readme-images/mushafdatabase-logo-black.png" width="400" alt="">
   </picture>
 </p>
