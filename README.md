@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme-images/mushafdatabase-logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="readme-images/mushafdatabase-logo-black.png">
-    <img src="readme-images/mushafdatabase-logo-black.png" width="150" alt="">
+    <img src="readme-images/mushafdatabase-logo-black.png" width="600" alt="">
   </picture>
 </p>
 
