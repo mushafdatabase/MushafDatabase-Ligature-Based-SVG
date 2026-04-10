@@ -155,8 +155,8 @@ Definition:
 
 Rules:
 
-• The attribute must be present in every SVG file.
-• The value must follow a semantic version format (e.g., 1.0, 1.1, 2.0).
+• The attribute must be present in every SVG file.<br>
+• The value must follow a semantic version format (e.g., 1.0, 1.1, 2.0).<br>
 • Files with different versions may have structural or metadata differences and must be interpreted accordingly by consumers.
 
 # 5. Root SVG Contract
