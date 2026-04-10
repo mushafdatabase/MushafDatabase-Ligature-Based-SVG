@@ -45,15 +45,15 @@ Intended Use Cases: The resulting specification is intended for projects that re
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr align="center" style="text-align:center;">
       <td>Prepared for publication and internal developer onboarding</td>
     </tr>
-    <tr>
+    <tr align="center" style="text-align:center;">
       <td>Friday, March 13, 2026 - الجمعة 24 رمضان 1447</td>
     </tr>
     <tr>
     <td>
-      <p align="center" >
+      <p align="center" style="text-align:center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme-images/aliflammim-logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="readme-images/aliflammim-logo-black.png">
