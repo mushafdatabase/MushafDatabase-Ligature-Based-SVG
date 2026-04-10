@@ -896,7 +896,7 @@ Users must not knowingly alter the Quranic content in any way that misrepresents
 This dataset is provided “as is”, without warranty of any kind, and the publisher shall not be liable for any claim, damage, or loss arising from its use.
 
 
-## 21. Contact Information
+# 21. Contact Information
 
 For inquiries, feedback, corrections, or collaboration regarding this dataset, please contact the publisher:
 
