@@ -175,6 +175,7 @@ Every file shall begin with a canonical SVG root that declares the page identity
   data-md-version="1.0">
   <title>Mushaf Page 1</title>
   <desc>Vector page for Mushaf page 1 with grouped Quran words and metadata.</desc>
+  ...
 </svg>
 ```
 
