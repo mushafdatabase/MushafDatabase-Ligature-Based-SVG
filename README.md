@@ -27,13 +27,11 @@
   <tbody>
     <tr>
       <td>Purpose: Define the normative structure, metadata, naming, and querying model for one SVG per Mushaf page.
-
-
-Scope: 604 SVG files representing the Holy Quran (Hafs narration), suitable for rendering, search, recitation sync, highlighting, and accessibility tooling.
-
-Audience: Application developers, data pipeline authors, QA engineers, and maintainers of the Mushaf Database project. 
-
-Intended Use Cases: The resulting specification is intended for projects that require both deterministic page rendering and machine-readable structural metadata. Typical use cases include audio-synchronized highlighting, word-level interaction, recitation-following interfaces, search and indexing pipelines, accessibility tooling, visual QA and validation workflows, annotation systems, educational applications, AI and machine-learning workflows, proofreading and review tools, printing and publishing pipelines, and other advanced Quran software scenarios where exact page fidelity and fine-grained structural addressing are both essential.</td>
+      <br><br>
+      Scope: 604 SVG files representing the Holy Quran (Hafs narration), suitable for rendering, search, recitation sync, highlighting, and accessibility tooling.<br><br>
+      Audience: Application developers, data pipeline authors, QA engineers, and maintainers of the Mushaf Database project. 
+      <br><br>
+      Intended Use Cases: The resulting specification is intended for projects that require both deterministic page rendering and machine-readable structural metadata. Typical use cases include audio-synchronized highlighting, word-level interaction, recitation-following interfaces, search and indexing pipelines, accessibility tooling, visual QA and validation workflows, annotation systems, educational applications, AI and machine-learning workflows, proofreading and review tools, printing and publishing pipelines, and other advanced Quran software scenarios where exact page fidelity and fine-grained structural addressing are both essential.</td>
     </tr>
   </tbody>
 </table>
