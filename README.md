@@ -37,7 +37,7 @@ Intended Use Cases: The resulting specification is intended for projects that re
   </tbody>
 </table>
 
-<p align="center" <p align="center"  style="text-align:center;">
+<p align="center">
 <table>
   <thead>
     <tr>
@@ -53,7 +53,7 @@ Intended Use Cases: The resulting specification is intended for projects that re
     </tr>
     <tr>
     <td>
-      <p align="center">
+      <p align="center" >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme-images/aliflammim-logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="readme-images/aliflammim-logo-black.png">
