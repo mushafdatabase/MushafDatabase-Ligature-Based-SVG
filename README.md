@@ -28,6 +28,7 @@
     <tr>
       <td>Purpose: Define the normative structure, metadata, naming, and querying model for one SVG per Mushaf page.
 
+
 Scope: 604 SVG files representing the Holy Quran (Hafs narration), suitable for rendering, search, recitation sync, highlighting, and accessibility tooling.
 
 Audience: Application developers, data pipeline authors, QA engineers, and maintainers of the Mushaf Database project. 
