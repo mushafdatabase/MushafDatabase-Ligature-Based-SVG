@@ -37,7 +37,7 @@ Intended Use Cases: The resulting specification is intended for projects that re
   </tbody>
 </table>
 
-<p align="center">
+<p align="center" <p align="center"  style="text-align:center;">
 <table>
   <thead>
     <tr>
