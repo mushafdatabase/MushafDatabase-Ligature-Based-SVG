@@ -10,7 +10,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme-images/mushafdatabase-logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="readme-images/mushafdatabase-logo-black.png">
-    <img src="readme-images/mushafdatabase-logo-black.png" width="600" alt="">
+    <img src="readme-images/mushafdatabase-logo-black.png" width="600" alt="Mushaf Database logo">
   </picture>
 </p>
 <br><br>
@@ -36,8 +36,36 @@ Intended Use Cases: The resulting specification is intended for projects that re
     </tr>
   </tbody>
 </table>
-<br><br>
 
+<p align="center">
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="text-align:center;">Version 1.0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Prepared for publication and internal developer onboarding</td>
+    </tr>
+    <tr>
+      <td>Friday, March 13, 2026 - الجمعة 24 رمضان 1447</td>
+    </tr>
+    <tr>
+    <td>
+      <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="readme-images/aliflammim-logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="readme-images/aliflammim-logo-black.png">
+    <img src="readme-images/aliflammim-logo-black.png" width="150" alt="Alif Lam Mim logo">
+  </picture>
+</p>
+</td>
+    </tr>
+  </tbody>
+</table>
+</p>
+<br><br>
 
 # 1. Overview
 
