@@ -1,6 +1,15 @@
 <p align="center">
   <picture>
-    <img src="readme-images/mushafdatabase-logo-black.png" width="400" alt="">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-images/bismillah-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="readme-images/bismillah-black.svg">
+    <img src="readme-images/bismillah-black" width="150" alt="In the name of God, the most gracious, the most merciful">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="readme-images/mushafdatabase-logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="readme-images/mushafdatabase-logo-black.png">
+    <img src="readme-images/mushafdatabase-logo-black.png" width="150" alt="">
   </picture>
 </p>
 
