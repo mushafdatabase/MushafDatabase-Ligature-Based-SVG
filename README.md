@@ -196,16 +196,16 @@ svg
     │   ├── g#md-non-quranic-margin-sajda        (if applicable)
     │   └── g#md-non-quranic-margin-sakta        (if applicable)
     └── g#md-page-inner (data-rect)
-        ├── g#md-line-01 ... g#md-line-15
-        │   ├── g#md-non-quranic-{id} (line with data-type="surah-name" or "bismillah", if applicable)
-        │   ├── g#md-word-{id}
-        │   │   ├── g#md-ligature-{id}-{seq}
-        │   │   │   └── path[data-type="text"][data-text]
-        │   │   └── g#md-diacritic-{id}-{seq}
-        │   │       └── path[data-type="diacritic|dots"][data-diacritic|data-dots]
-        │   └── g#md-aya-mark-{id}
-        │       ├── g#md-ornament-{id}-01
-        │       └── g#md-number-{id}-02
+        └── g#md-line-01 ... g#md-line-15
+            ├── g#md-non-quranic-{id} (line with data-type="surah-name" or "bismillah", if applicable)
+            ├── g#md-word-{id}
+            │   ├── g#md-ligature-{id}-{seq}
+            │   │   └── path[data-type="text"][data-text]
+            │   └── g#md-diacritic-{id}-{seq}
+            │       └── path[data-type="diacritic|dots"][data-diacritic|data-dots]
+            └── g#md-aya-mark-{id}
+                ├── g#md-ornament-{id}-01
+                └── g#md-number-{id}-02
 ```
 
 # 7. Page Wrapper Groups
