@@ -1,3 +1,22 @@
+## Latest Version
+
+Current SVG dataset version: **SVG V1.01**
+
+Diacritic Label Updates
+
+This update includes corrections to diacritic labels in the SVG dataset.
+
+data-diacritic type attribute
+
+Fixed
+- Fixed mislabeled kasra diacritics on pages 1 and 2.
+- Fixed the missing small noon label on page 329 at 21:88 in the word nunjī: نُـۨـجِى.
+
+## Contribution
+These corrections were contributed by brother OO. May Allah reward him for his careful review and valuable contribution to improving the accuracy of the MushafDatabase SVG dataset.
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme-images/bismillah-white.svg">
@@ -40,7 +59,7 @@
 <table>
   <thead>
     <tr>
-      <th align="center" style="text-align:center;">Version 1.0</th>
+      <th align="center" style="text-align:center;">Version 1.01</th>
     </tr>
   </thead>
   <tbody>
@@ -172,7 +191,7 @@ Every file shall begin with a canonical SVG root that declares the page identity
   x="0px" y="0px"
   preserveAspectRatio="xMidYMid meet"
   viewBox="0 0 382.68 547.09"
-  data-md-version="1.0">
+  data-md-version="1.01">
   <title>Mushaf Page 1</title>
   <desc>Vector page for Mushaf page 1 with grouped Quran words and metadata.</desc>
   ...
@@ -508,6 +527,7 @@ Each ligature may own a sibling or nested md-diacritic group that contains the v
     <tr><td><code>small seen</code></td><td>Small seen</td></tr>
     <tr><td><code>small waw</code></td><td>Small waw</td></tr>
     <tr><td><code>small yeh</code></td><td>Small yeh</td></tr>
+    <tr><td><code>small noon</code></td><td>Small noon</td></tr>
     <tr><td><code>rounded zero</code></td><td>Rounded zero</td></tr>
     <tr><td><code>rectangular zero</code></td><td>Rectangular zero</td></tr>
   </tbody>
